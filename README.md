@@ -28,7 +28,7 @@ A modern hash cracking tool with integrated AI-powered security analysis, featur
 
 1. Clone the repository:
 ```
-git clone [https://github.com/yourusername/hash-cracker.git](https://github.com/yourusername/hash-cracker.git)
+git clone [https://github.com/Advaith35/Hashcracker.git](https://github.com/Advaith35/Hashcracker.git)
 cd hash-cracker
 ```
 Install dependencies:
