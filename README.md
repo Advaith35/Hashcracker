@@ -2,7 +2,13 @@
 
 A modern hash cracking tool with integrated AI-powered security analysis, featuring multiple input methods and real-time substitution of cracked hashes.
 
-![Demo Screenshot](https://via.placeholder.com/800x500.png/2d2d2d/ffffff?text=Hash+Cracker+Pro+UI) *Example UI screenshot*
+## Demo Video
+
+Here's a quick demonstration of the Hash Cracker Pro in action:
+
+![Hash Cracker Demo](hashcracker.gif)
+
+You can see how it quickly cracks the MD5 hash and displays the result.
 
 ## Features
 
