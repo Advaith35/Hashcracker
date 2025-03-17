@@ -6,7 +6,7 @@ A modern hash cracking tool with integrated AI-powered security analysis, featur
 
 Here's a quick demonstration of the Hash Cracker Pro in action:
 
-![Hash Cracker Demo](Hashcracker.mp4)
+![Hash Cracker Demo](hashcracker.gif)
 
 You can see how it quickly cracks the MD5 hash and displays the result.
 
